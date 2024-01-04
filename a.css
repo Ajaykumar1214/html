@@ -1,0 +1,22 @@
+.header{
+  background-color:orange;
+}
+.heading{
+  font-family:Arial;
+  color:red;
+}
+.img{
+  padding-top:40px;
+  }
+.form{
+  text-align:center;
+}
+#email{
+  padding-right:20px;
+}
+p{
+  color:blue;
+}
+p>span{
+  color:green;
+}
