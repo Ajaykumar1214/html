@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header><h1>pH scale</h1></header>
+    <P>
+       <div class="c1"> <P>1</P></div>
+       <div class="c2"> <P>2</P></div>
+       <div class="c3"> <P>3</P></div>
+       <div class="c4"> <P>4</P></div>
+       <div class="c5"> <P>5</P></div>
+       <div class="c6"> <P>6</P></div>
+       <div class="c7"> <P>7</P></div>
+       <div class="c8"> <P>8</P></div>
+       <div class="c9"> <P>9</P></div>
+       <div class="c10"> <P>10</P></div>
+       <div class="c11"> <P>11</P></div>
+       <div class="c12"> <P>12</P></div>
+       <div class="c13"> <P>13</P></div>
+       <div class="c14"> <P>14</P></div>
+       <div class="c15"> <P>15</P></div>
+       
+    </P>
+</body>
+</html>
